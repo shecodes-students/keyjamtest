@@ -1,0 +1,42 @@
+p {
+  margin: 2% 12.5%;
+  font-size: 1.6em;
+}
+div {
+  background: none;
+  width: 75%;
+  height: 145px;
+  border: 2px solid black;  
+  margin: auto;
+}
+span {
+  font-family: 'Source Code Pro', Courier, monospace;
+  font-size: 3em;
+  line-height: 1.8em;
+  text-align: center;
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  border: 2px solid black;
+  margin: 20px 6.2%;
+}
+span:nth-child(1) {
+  color: #080D3B;
+  background: #7D82B0;
+}
+span:nth-child(2) {
+  color: #080D3B;
+  background: #535993;
+}
+span:nth-child(3) {
+  color: #7D82B0;
+  background: #323875;
+}
+span:nth-child(4) {
+  color: #7D82B0;
+  background: #191F58;
+}
+span:nth-child(5) {
+  color: #7D82B0;
+  background: #080D3B;
+}
