@@ -1,0 +1,24 @@
+{
+  "name": "keyjamtest",
+  "version": "1.0.0",
+  "description": "Detects which keys can be pressed at once",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "keyboard",
+    "jamming",
+    "rollover",
+    "ghosting"
+  ],
+  "contributors": [
+    "Jan Bölsche <jan@she.codes>",
+    "Olena Levitsky <olena@she.codes>"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "beefy": "^2.1.1",
+    "browserify": "^6.0.2"
+  }
+}
